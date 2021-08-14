@@ -1,6 +1,6 @@
 package com.tutrit.java.quickstart.service;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import com.tutrit.java.quickstart.bean.Slot;
 import java.time.LocalDateTime;

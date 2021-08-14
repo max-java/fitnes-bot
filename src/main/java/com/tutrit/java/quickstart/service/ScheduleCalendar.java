@@ -8,6 +8,7 @@ public class ScheduleCalendar {
     private static final List<Slot> scheduleCalendarList = new ArrayList();
 
     public void addSlot(Slot slot) {
+
         scheduleCalendarList.add(slot);
     }
 
